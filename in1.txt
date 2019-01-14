@@ -1,0 +1,16 @@
+PROGRAM prog
+VAR
+a1,a2,a3INTEGER;
+d3,s1INTEGER
+BEGIN
+a1:=a4;
+a3:=(a1 DIV 4)*(a3*5)+(b1-4*12)-(a2+3);
+WRITE(a1);
+FOR b1:=1 TO b2 DO
+BEGIN 
+a1:=2*3+5
+READ(b2)
+END;
+READ(a2);
+WRITE(a1)
+END.
